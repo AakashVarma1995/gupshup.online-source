@@ -119,7 +119,7 @@ function App() {
    <div className={classes.root}>
       <center><h1>GupShup.online<br/>Hi, {userName}</h1></center>
       <div className={classes.chatWindow}>
-          {
+          { 
             messages.map((msg,index)=>{
               if(msg.sender==userName){
                 return(<div className={classes.myChatMesageRow} key={index}>
