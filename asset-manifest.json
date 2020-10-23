@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gupshup.online/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/gupshup.online/static/js/main.776346ee.chunk.js",
+    "main.js.map": "/gupshup.online/static/js/main.776346ee.chunk.js.map",
+    "runtime-main.js": "/gupshup.online/static/js/runtime-main.0d457302.js",
+    "runtime-main.js.map": "/gupshup.online/static/js/runtime-main.0d457302.js.map",
+    "static/js/2.941e787d.chunk.js": "/gupshup.online/static/js/2.941e787d.chunk.js",
+    "static/js/2.941e787d.chunk.js.map": "/gupshup.online/static/js/2.941e787d.chunk.js.map",
+    "index.html": "/gupshup.online/index.html",
+    "precache-manifest.ff433c2f3497eaca375759a4c66cad70.js": "/gupshup.online/precache-manifest.ff433c2f3497eaca375759a4c66cad70.js",
+    "service-worker.js": "/gupshup.online/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/gupshup.online/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.941e787d.chunk.js.LICENSE.txt": "/gupshup.online/static/js/2.941e787d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d457302.js",
+    "static/js/2.941e787d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.776346ee.chunk.js"
+  ]
+}
